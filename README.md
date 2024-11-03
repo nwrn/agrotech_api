@@ -45,3 +45,9 @@ API em resumo é o sistema resopnsável por definir e gerenciar as regras de neg
 
 https://developer.mozilla.org/pt-BR/docs/Glossary/API
 
+## 5. Tecnologias propostas
+1. Java
+2. Bibliotecas Spring
+3. Qualquer banco de dados relacional (Ex: MariaDB, MySQL, Postgres)
+4. Qualquer outra biblioteca e tecnologia que achar necessário pra dar suporte ao desenvolvimento.
+
