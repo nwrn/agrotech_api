@@ -28,7 +28,7 @@ Cada recurso será identificado por um identificador único (ID) e estará dispo
 - Atualizar Cultivo: A API deve permitir a atualização de um cultivo existente.
 - Excluir Cultivo: A API deve permitir a exclusão de um cultivo.
 
-## 4. Palavras chaves
+## 4. Palavras chaves e links úteis
 1. CRUD
 - C = Create
 - R = Read
@@ -44,6 +44,8 @@ https://developer.mozilla.org/pt-BR/docs/Glossary/CRUD
 API em resumo é o sistema resopnsável por definir e gerenciar as regras de negócio para interagir com uma base de dados.
 
 https://developer.mozilla.org/pt-BR/docs/Glossary/API
+
+https://dev.to/newren/api-crud-mvc-o-que-sao-todas-essas-siglas-no2
 
 ## 5. Tecnologias propostas
 1. Java
