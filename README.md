@@ -47,6 +47,30 @@ https://developer.mozilla.org/pt-BR/docs/Glossary/API
 
 https://dev.to/newren/api-crud-mvc-o-que-sao-todas-essas-siglas-no2
 
+3. Spring
+   
+- Spring initializer:
+
+https://start.spring.io/
+
+- Como iniciar um projeto spring e criando o primeiro controller:
+
+https://vitormoschetti.medium.com/primeiro-projeto-com-spring-boot-9c19c7255aaa
+
+- Spring boot primeiros passos:
+
+https://www.alura.com.br/artigos/spring-boot
+
+4. SQL
+ 
+- Como criar uma tabela com SQL:
+
+https://learnsql.com.br/blog/como-criar-uma-tabela-em-sql/
+
+- Boas Práticas para a Criação de Tabelas em Bancos de Dados SQL:
+
+https://www.dio.me/articles/boas-praticas-para-a-criacao-de-tabelas-em-bancos-de-dados-sql
+
 ## 5. Tecnologias propostas
 1. Java
 2. Bibliotecas Spring
